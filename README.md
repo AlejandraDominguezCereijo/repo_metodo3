@@ -7,3 +7,5 @@
 ### otra modificacion
 
 ### clase huelga
+
+commit metodo 3
